@@ -48,7 +48,7 @@ from sensor_msgs.msg import JointState, Imu, Range
 from std_msgs.msg import Bool
 from nxt_msgs.msg import Contact, JointCommand, Color, Gyro, Accelerometer
 from PyKDL import Rotation
-import nxt.execute
+#import nxt.execute
 
 POWER_TO_NM = 0.01
 POWER_MAX = 125
